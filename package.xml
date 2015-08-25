@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>bag_loop_check</name>
+  <version>1.0.0</version>
+  <description>Correct checks for whether a rosbag just looped</description>
+
+  <maintainer email="mgoerner@uni-osnabrueck.de">Michael Goerner</maintainer>
+
+  <license>BSD</license>
+
+  <author >Michael Goerner</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+</package>
